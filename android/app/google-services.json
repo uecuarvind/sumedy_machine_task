@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62383359629",
+    "project_id": "machne-task-4f438",
+    "storage_bucket": "machne-task-4f438.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62383359629:android:539d3faec705eaa23584c4",
+        "android_client_info": {
+          "package_name": "com.machine_test.machine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lnZY7c4Vqymo8kfmRKvYI1VDhnVShUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
