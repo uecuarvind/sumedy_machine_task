@@ -181,18 +181,6 @@ service cloud.firestore {
 
 ---
 
-## 📸 Screenshots / Demo
-
-(Add screenshots here)
-
----
-
-## 📦 APK
-
-(Optional: attach APK file)
-
----
-
 ## 👨‍💻 Author
 
 **Arvind Kumar Gupta**
